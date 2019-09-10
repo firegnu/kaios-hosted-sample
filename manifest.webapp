@@ -1,17 +1,17 @@
 {
   "version": "1",
   "name": "KaiOS hosted starter",
-  "launch_path": "/index.html",
+  "launch_path": "/kaios-hosted-sample/index.html",
   "description": "KaiOS hosted app with example use cases to get started",
   "icons": {
-    "16": "/images/logo16.png",
-    "32": "/images/logo32.png",
-    "48": "/images/logo48.png",
-    "60": "/images/logo60.png",
-    "64": "/images/logo64.png",
-    "90": "/images/logo90.png",
-    "120": "/images/logo120.png",
-    "128": "/images/logo128.png"
+    "16": "/kaios-hosted-sample/images/logo16.png",
+    "32": "/kaios-hosted-sample/images/logo32.png",
+    "48": "/kaios-hosted-sample/images/logo48.png",
+    "60": "/kaios-hosted-sample/images/logo60.png",
+    "64": "/kaios-hosted-sample/images/logo64.png",
+    "90": "/kaios-hosted-sample/images/logo90.png",
+    "120": "/kaios-hosted-sample/images/logo120.png",
+    "128": "/kaios-hosted-sample/images/logo128.png"
   },
   "developer": {
     "name": "Robert Nyman",
